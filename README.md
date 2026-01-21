@@ -9,7 +9,7 @@ python -m venv venv
 4) to train the module:
 python train_casia.py 
 
-5) to predict if an image is forged or authantic:
+5) to predict if an image is tampered or authentic:
    python predict_image.py
 
 
